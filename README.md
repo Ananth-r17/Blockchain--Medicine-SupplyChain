@@ -23,7 +23,7 @@ The Motive of the Medicines Supply Chain is the to bring raw drugs and matrials 
 #### Application Workflow Diagram
 ---
 ![](https://github.com/Ananth-r17/Blockchain--Medicine-SupplyChain/blob/master/assets/flow/Flow%20of%20Chain.png)
-![](https://github.com/Ananth-r17/Blockchain--Medicine-SupplyChain/blob/master/assets/flow/MEDICINE%20SUPPLY%20CHAIN%20STRUCTURE.txt)
+![](https://github.com/Ananth-r17/Blockchain--Medicine-SupplyChain/blob/master/assets/flow/MEDICINE%20SUPPLY%20CHAIN%20STRUCTURE.md)
 
 #### Roles
 ---

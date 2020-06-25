@@ -114,22 +114,14 @@ The Motive of the Medicines Supply Chain is the to bring raw drugs and matrials 
 
 #### Roles
 ---
-1. Admin
-2. Supplier
-3. Transfporter (Shipper)
-4. Manufacturer
-5. Wholesaler
-6. Distributer
-7. Pharmacy
 
-**Admin:** Admin register new users, reassigns and revokes roles. Gives roles according to work.<\br>
-**Lab:** Give Raw Materials for supply to the Supplier with details of Lab and the Raw Materials.<\br>
-**Manufacturer:** Manufactures New Medicine Batch from the Raw Materials Batch provided by the Lab.<\br>
-**Supplier:** Supplier supplies manufactured Medicine Batch either to the Wholesaler or directly to the Distributer.<\br>
-**Transporter:** Transporter or Shipper are responsible for shipping medicine packages from one stage to other stage.<\br>
-**Wholesaler:** Wholesaler is reponsible to receive medicine from Manufacturer/Supplier and check medicine quality, than transfer to Distributer.<\br>
-**Distrubuter:** Distributer is reponsible to distribute Medicine to Pharmacies and verify Quality.<\br>
-**Pharmacy:** Pharmacy is reponsible to provide right medicine to the consumer and update Medicine Status.<\br>
+**1. Admin:** Admin register new users, reassigns and revokes roles. Gives roles according to work.
+**2. Lab & Manufacturer:** Lab Gives Raw Materials for supply to the Supplier with details of Lab and the Raw Materials and Manufacturer manufactures New Medicine Batch from the Raw Materials Batch provided by the Lab.
+**3. Supplier:** Supplier supplies manufactured Medicine Batch either to the Wholesaler or directly to the Distributer.
+**4. Transporter(Shipper):** Transporter or Shipper are responsible for shipping medicine packages from one stage to other stage.
+**5. Wholesaler:** Wholesaler is reponsible to receive medicine from Manufacturer/Supplier and check medicine quality, than transfer to Distributer.
+**6. Distrubuter:** Distributer is reponsible to distribute Medicine to Pharmacies and verify Quality.
+**7. Pharmacy:** Pharmacy is reponsible to provide right medicine to the consumer and update Medicine Status.
 
 #### Tools and Technologies Used
 ---

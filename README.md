@@ -116,8 +116,8 @@ The Motive of the Medicines Supply Chain is the to bring raw drugs and matrials 
 ---
 
 **1. Admin:** Admin register new users, reassigns and revokes roles. Gives roles according to work.
-**2. Lab & Manufacturer:** Lab Gives Raw Materials for supply to the Supplier with details of Lab and the Raw Materials and Manufacturer manufactures New Medicine Batch from the Raw Materials Batch provided by the Lab.
-**3. Supplier:** Supplier supplies manufactured Medicine Batch either to the Wholesaler or directly to the Distributer.
+**3. Lab & Supplier:** Lab Gives Raw Materials for supply to the Supplier with details of Lab and the Raw Materials and Supplier supplies it to Manufacturer.
+**2. Manufacturer:**  Manufacturer manufactures New Medicine Batch from the Raw Materials Batch given by the Lab and sends the manufactured Medicine Batch either to the Wholesaler or directly to the Distributer.
 **4. Transporter(Shipper):** Transporter or Shipper are responsible for shipping medicine packages from one stage to other stage.
 **5. Wholesaler:** Wholesaler is reponsible to receive medicine from Manufacturer/Supplier and check medicine quality, than transfer to Distributer.
 **6. Distrubuter:** Distributer is reponsible to distribute Medicine to Pharmacies and verify Quality.
